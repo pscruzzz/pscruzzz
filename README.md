@@ -13,7 +13,6 @@
 <img align="center" height="35" src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png">
 <img align="center" height="35" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png">
 <img align="center" height="35" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/react.png">
-<img align="center" height="35" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png">
 <img align="center" height="35" src="https://raw.githubusercontent.com/golangci/golangci-lint/master/assets/go.png">
   
 </div>
