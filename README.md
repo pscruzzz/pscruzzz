@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Pedro Cruz! ( ‾◡◝)✌</h1>
 
-<h3 align="center">I'm a Software Engineer @NSX</h3>
+<h3 align="center">I'm a Software Engineer @FlutterEntertainment</h3>
 
 
 <div align="center">
